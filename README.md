@@ -14,22 +14,44 @@
 
 - ⚡ **I am a technophile**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raghavk44330210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavk44330210" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghav-kapoor-160b23225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghav-kapoor-160b23225/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/raghavkapoor082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/raghavkapoor082002" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/raghavkapoor_8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raghavkapoor_8/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rk6073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rk6073" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kraghav2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kraghav2002/" height="30" width="40" /></a>
-</p>
+### WEBSITES & SOCIAL LINKS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![facebook](https://user-images.githubusercontent.com/54937357/127763744-3a5c9e3d-16b0-4633-a462-054c054830f4.png)](https://www.facebook.com/raghav.kapoor.330/) &nbsp; &nbsp; &nbsp;
+[![github](https://user-images.githubusercontent.com/54937357/126553108-d50d51f3-5d73-46a9-bd47-9ce55eae1d4c.png)](https://github.com/Kraghav2002) &nbsp; &nbsp; &nbsp;
+[![Instagram](https://user-images.githubusercontent.com/54937357/128647103-fc9fe915-e8b1-4152-b5d8-51b42933953a.jpg)](https://www.instagram.com/raghavkapoor_8/) &nbsp; &nbsp; &nbsp;
+[![kaggle](https://user-images.githubusercontent.com/54937357/126513065-fc04f954-a3b4-4e9d-878b-92b6c0d61753.jpg)](https://www.kaggle.com/raghavkapoor082002) &nbsp; &nbsp; &nbsp;
+[![Linked in](https://user-images.githubusercontent.com/54937357/126513520-a9a3a301-101c-4e39-ab00-a2ec114da8e7.png)](https://www.linkedin.com/in/raghav-kapoor-160b23225/) &nbsp; &nbsp; &nbsp;
+[![Twitter](https://user-images.githubusercontent.com/54937357/126516637-c9c166c1-a377-4d5b-a16b-37a29143121a.png)](https://twitter.com/RaghavK44330210) &nbsp; &nbsp; &nbsp;
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kraghav2002&show_icons=true&locale=en&layout=compact" alt="kraghav2002" /></p>
+<p align="center"> <img align="center" a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=Kraghav2002&margin-w=30" alt="Kraghav2002" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraghav2002&show_icons=true&locale=en" alt="kraghav2002" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraghav2002&" alt="kraghav2002" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraghav2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kraghav2002" /></p>
 
+---
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kraghav2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kraghav2002" /></p>
+
+---
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kraghav2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Kraghav2002" /></p>
+
+---
+
+<!--
+<a href="https://github.com/Kraghav2002/github-readme-activity-graph"><img alt="Raghav's ACTIVITY GRAPH" src="https://activity-graph.herokuapp.com/graph?username=Kraghav2002&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" /></a>
+
+-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kraghav2002&bg_color=000000&color=ffffff&line=00ccff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+**<p align="center"> <b> THANK YOU FOR YOUR VISIT <b> </p>**
+
+**<p align="center"> <b> HAVE A GREAT TIME! <b> </p>**
+
+##
